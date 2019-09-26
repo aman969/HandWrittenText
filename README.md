@@ -1,4 +1,4 @@
-Hand Written Text Recognization.
+#Hand Written Text Recognization.
 
 In this project, I have tried to identify handwritten images through machine learning.
 To do this I have used the following library.
